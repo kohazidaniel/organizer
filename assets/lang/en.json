@@ -1,0 +1,38 @@
+{
+    "drawerMenuItems": {
+        "attractions": "Places",
+        "friendList": "Friends",
+        "events": "Events",
+        "profile": "Profile"
+    },
+    "addAttractionForm": {
+        "name": "Name",
+        "address": "Address",
+        "missingField": "Missing field"
+    },
+    "addEventFrom": {
+        "choosePlace": "Choose a place",
+        "noPlaces": "There are no places added",
+        "noFriends": "There are no friends added",
+        "eventTitle": "Event title",
+        "eventDescription": "Event description",
+        "participant": "Participants",
+        "selectDate": "Select a date"
+    },
+    "chooseAContact": "Contats",
+    "takeAPicture": "Take a picture",
+    "cancel": "Cancel",
+    "save": "Save",
+    "add": "Add",
+    "removed": "removed",
+    "delete": "Delete",
+    "addSomeFriends": "Add some friends",
+    "addNewEvents": "Add new events",
+    "deletePlaceMessage": "Would you like to delete the following place: ",
+    "deleteEventMessage": "Would you like to delete the following event: ",
+    "addPlaceTip": "To add a new place, select a point on the map with a long press",
+    "invitedFriends": "Invited friends:",
+    "selectLanguage": "Select language",
+    "locale_hu": "Hungarian",
+    "locale_en": "English"
+}

@@ -1,0 +1,38 @@
+{
+    "drawerMenuItems": {
+        "attractions": "Helyek",
+        "friendList": "Barátok",
+        "events": "Események",
+        "profile": "Profil"
+    },
+    "addAttractionForm": {
+        "name": "Név",
+        "address": "Cím",
+        "missingField": "Hiányos mező"
+    },
+    "addEventFrom": {
+        "choosePlace": "Hely kiválasztása",
+        "noPlaces": "Nincsenek helyek felvéve",
+        "noFriends": "Nincsenek barátok felvéve",
+        "eventTitle": "Esemény neve",
+        "eventDescription": "Esemény leírása",
+        "participant": "Résztvevők",
+        "selectDate": "Dátum kiválasztása"
+    },
+    "chooseAContact": "Névjegyzék",
+    "takeAPicture": "Kép készítése",
+    "cancel": "Mégse",
+    "save": "Mentés",
+    "add": "Hozzáadás",
+    "removed": "törölve",
+    "delete": "Törlés",
+    "addSomeFriends": "Vegyél fel barátokat",
+    "addNewEvents": "Vegyél fel új eseményt",
+    "deletePlaceMessage": "Biztosan törölni szeretnéd a következő helyet: ",
+    "deleteEventMessage": "Biztosan törölni szeretnéd a következő eseményt: ",
+    "addPlaceTip": "Hely felvételéhez jelölj ki egy pontot a térképen hosszú lenyomással",
+    "invitedFriends": "Meghívott barátok:",
+    "selectLanguage": "Nyelv kiválasztása",
+    "locale_hu": "Magyar",
+    "locale_en": "Angol"
+}
